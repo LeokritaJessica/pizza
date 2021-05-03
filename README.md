@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build with React.\
+You can access this project in here [PizzaDough](https://pizzadough.netlify.app/).\
 
 ## Available Scripts
 
